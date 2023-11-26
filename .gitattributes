@@ -1,2 +1,4 @@
 mvnw    text eol=lf
 *.java  text eol=lf
+*.css linguist-vendored=false
+
